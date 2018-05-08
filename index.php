@@ -62,7 +62,7 @@ a:hover{
   <tr id="ctexto">
     <td width="622" bgcolor="#484848">&nbsp;</td>
     <td width="67" bgcolor="#1B1B1B" class="ctexto1" style="font-family: 'Arial Narrow'; text-align: center;"><span class="titulo3"><a href="acceso.php">Login</a></span></td>
-    <td width="99" bgcolor="#333333" class="ctexto1" style="font-family: 'Arial Narrow'; color: #FFF; text-align: center;"><span class="titulo3"><a href="registro.php">Subscribirme</a></span></td>
+    <td width="99" bgcolor="#333333" class="ctexto1" style="font-family: 'Arial Narrow'; color: #FFF; text-align: center;"><span class="titulo3"></span></td>
   </tr>
 </table>
 </DIV>
