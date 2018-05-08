@@ -19,7 +19,7 @@ body{
 }
 .titulo3 {
 	font-family: Calibri;
-	color: #666666;
+	color: #888888;
 		text-align: right;
 }
 
